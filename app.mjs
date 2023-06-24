@@ -48,7 +48,7 @@ function listLowToHigh() {
 }
 
 // / /  Solutions / /
-// console.log(listAll());
+console.log(listAll());
 // console.log(listAllVegetables());
 // console.log(listAllFruits());
 // console.log(listAllProteins());
